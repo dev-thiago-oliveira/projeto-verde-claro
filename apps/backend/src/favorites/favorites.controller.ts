@@ -13,7 +13,6 @@ export class FavoritesController {
    */
   @Post()
   create(@Body() createFavoriteDto: BookIncludeDto): { message: string; favorite: { id: string } & BookIncludeDto } {
-    console.log('Requisição Post recebida para todos os favoritos');
     return this.favoritesService.create(createFavoriteDto);
   }
 
