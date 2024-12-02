@@ -1,4 +1,9 @@
-![Verde Claro](./apps/frontend/src/assets/imagens/logo.svg)
+
+<div align="center">
+  <img src="./apps/frontend/src/assets/imagens/logo.svg" alt="Descrição da Imagem" width="200px">
+</div>
+
+---
 
 
 # Verde Claro - Aplicações
