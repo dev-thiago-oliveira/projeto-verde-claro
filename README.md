@@ -2,11 +2,9 @@
 <div align="center">
   <img src="./apps/frontend/src/assets/imagens/logo.svg" alt="Descrição da Imagem" width="200px">
 </div>
+<br>
 
----
-
-
-# Verde Claro - Aplicações
+# Verde Claro
 
 Este repositório contém as aplicações do projeto **Verde Claro**. O projeto utiliza um **monorepo** gerenciado com **Turborepo**. Ele agrupa duas aplicações e varios pacotes compartilhados em um único repositório para otimizar o fluxo de desenvolvimento e melhorar a gestão de dependências.
 
