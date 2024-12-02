@@ -16,7 +16,7 @@ export function Header() {
   const getIconButtomLanguage = (pathImage: string, alt: string, lang: string) => {
     return (
       <IconButton size='medium' color='inherit' onClick={() => handleLanguageChange(lang)}>
-        <SC.ImgLanguage selected={i18n.language === lang} src={pathImage} alt={alt} />
+        <SC.ImgLanguage selected={i18n.language === lang || i18n.resolvedLanguage === lang} src={pathImage} alt={alt} />
       </IconButton>
     );
   };
