@@ -1,6 +1,6 @@
-
+<br>
 <div align="center">
-  <img src="./apps/frontend/src/assets/imagens/logo.svg" alt="Descrição da Imagem" width="200px">
+  <img src="./apps/frontend/src/assets/imagens/logo.svg" alt="Descrição da Imagem" width="450px">
 </div>
 <br>
 
