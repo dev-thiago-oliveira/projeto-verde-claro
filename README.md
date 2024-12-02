@@ -51,7 +51,7 @@ turbo.json
    npm install
    ```
 
-4. Crie um arquivo `.env` na raiz do projeto e adicione as variáveis de ambiente necessárias (exemplo abaixo).
+4. Crie um arquivo `.env` na raiz dos projetos frontend e backend conforme exemplos abaixo.
 
 ### Exemplo de Arquivo `.env`
 
