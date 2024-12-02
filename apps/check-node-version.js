@@ -16,10 +16,10 @@ if (!semver.gte(currentVersion, requiredVersion)) {
     Site oficial: https://nodejs.org/
 
     ============================================================
-    
+
     `);
     process.exit(1);
 }
 
-console.log(`Versão do Node.js (${currentVersion}) compatível.`);
+console.log(`Versão do Node.js (${requiredVersion}) compatível.`);
 
