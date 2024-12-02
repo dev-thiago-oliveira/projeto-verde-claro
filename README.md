@@ -27,8 +27,6 @@ O projeto utiliza a estrutura de **monorepo** para organizar diferentes pacotes 
   /frontend
   /backend
 /packages
-  /shared
-  /utils
 turbo.json
 ```
 
@@ -72,4 +70,4 @@ OPENAI_API_KEY=incluir_api_key_da_openai
    npm run start  
    ```
 
-2. Isso vai iniciar os aplicativos no modo de desenvolvimento e usar o **Turborepo** para otimizar as tarefas paralelas de build, lint e testes.
+2. Isso vai iniciar os aplicativos no modo de desenvolvimento e usar o **Turborepo** para otimizar as tarefas paralelas de build.
