@@ -27,7 +27,7 @@ export class FavoritesService {
     const id = uuidv6();
     const favorite = { id, ...createFavoriteDto };
 
-    this.favorites.push(favorite);
+    this.favorites.unshift(favorite);
 
     return { message: 'Livro favoritado com sucesso.', favorite };
   }
