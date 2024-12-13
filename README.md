@@ -68,7 +68,7 @@ OPENAI_API_KEY=incluir_api_key_da_openai
 ## Como obter a OPENAI_API_KEY
 Acesso o [link](https://comunidadedeestatistica.com.br/como-criar-uma-chave-token-para-api-do-chatgpt/) e siga as instruções.
 
-_**<span style="color: red">Importante:</span> A versão que estamos usando para consulta na OpenAI é a: gpt-3.5-turbo_.
+_**<span style="color: red">Importante:</span>** A versão que estamos usando para consulta na OpenAI é a: gpt-3.5-turbo_.
 
 ## Como Rodar o Projeto
 
