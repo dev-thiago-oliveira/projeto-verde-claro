@@ -13,11 +13,11 @@ Este repositório contém as aplicações do projeto **Verde Claro**. O projeto 
 O projeto usa algumas tecnologias e ferramentas como:
 
 - **Turborepo**: Plataforma de gerenciamento de monorepos que otimiza builds e outras tarefas em múltiplos pacotes e aplicações. Ele permite a execução paralela de tarefas e a gestão de dependências entre elas, garantindo eficiência no processo de desenvolvimento.
-- **React.js**: Biblioteca JavaScript para construção de interfaces de usuário interativas e dinâmicas.
-- **TypeScript**: Superset do JavaScript que adiciona tipagem estática ao código, proporcionando maior segurança e escalabilidade.
+- **React.js com TypeScript**: Biblioteca JavaScript para construção de interfaces de usuário interativas e dinâmicas, utilizando TypeScript para adicionar tipagem estática, proporcionando maior segurança e escalabilidade.
 - **Styled-components**: Biblioteca para estilização em aplicações React, que permite a utilização de CSS-in-JS, facilitando a criação de componentes reutilizáveis e estilizados.
-- **Nest.js**: Framework para desenvolvimento de aplicações robustas e escaláveis, com uma estrutura modular e suporte a TypeScript nativo.
+- **Nest.js com TypeScript**: Framework para desenvolvimento de aplicações robustas e escaláveis no lado do servidor, com uma estrutura modular e suporte nativo a TypeScript.
 - **SWR**: Biblioteca de React para busca e cache de dados, focada em simplicidade e performance, ideal para lidar com requisições em tempo real.
+
 
 
 ## Estrutura do Projeto
